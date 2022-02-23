@@ -15,8 +15,18 @@
 			"Name": "AppleARKit",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"IOS"
+				"IOS",
+				"Win64",
+				"Mac"
 			]
+		},
+		{
+			"Name": "GoogleARCoreServices",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
